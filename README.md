@@ -230,3 +230,18 @@ And find the version
 <p align="center">
   <img src="./images/kind_chmod_version.jpg">
 </p>
+
+
+## The result
+
+After running the containers in the docker-compose.yaml in the kubernetes directory, the result optained for the cancer free image is shown below:
+
+<p align="center">
+  <img src="./images/test_data_0.jpg">
+</p>
+
+And the cancerous test_image:
+
+<p align="center">
+  <img src="./images/test_data_1.jpg">
+</p>
